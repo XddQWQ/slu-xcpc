@@ -1,4 +1,5 @@
 # Table of contents
 
-* [新手村指南](README.md)
+* [README](README.md)
+* [新手村指南](<README (1).md>)
 * [OS-README](os-readme.md)
